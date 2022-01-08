@@ -5,3 +5,7 @@ h1 {
 ul {
   border: solid black 1px
 }
+
+li {
+  background-color: aquamarine;
+}
